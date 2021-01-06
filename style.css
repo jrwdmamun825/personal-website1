@@ -85,10 +85,15 @@ p {
 }
 .top-1 {
     margin-top: -90px;
+   
+
+}
+.top-1 img{
+    width: 80%;
 
 }
 .top-2 {
-    margin-top: -120px;
+    margin-top: -180px;
     margin-left: 10%;
 }
 .third-section {
@@ -142,6 +147,7 @@ footer {
     width: 60%;
     height: 150px;
     background-image: url("images/Group_33094_1.png");
+    background-size: 100%;
     margin-left: 20%;
     border-radius: 20px;
     padding: 20px;
